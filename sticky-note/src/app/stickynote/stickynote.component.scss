@@ -1,0 +1,18 @@
+.sticky-note {
+    background-color: rgba(211, 123,187, .7);
+    width: 300px;
+  }
+  
+  .sticky-note__header {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .sticky-note__body textarea{
+    width: 100%;
+  }
+  
+  .sticky-note__footer {
+    display: flex;
+    justify-content: space-between;
+  }
